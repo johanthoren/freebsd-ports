@@ -1,0 +1,10 @@
+--- st.desktop.orig	2021-03-16 10:58:26 UTC
++++ st.desktop
+@@ -0,0 +1,7 @@
++[Desktop Entry]
++Type=Application
++Name=st
++Comment=simple-terminal emulator for X
++Icon=utilities-terminal
++Exec=st
++Categories=System;TerminalEmulator
